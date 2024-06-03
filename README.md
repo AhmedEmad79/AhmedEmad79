@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmed-emad-mohammed" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Emad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-emad-mohammed/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Emad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ahmedemad23" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Emad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
